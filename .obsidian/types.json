@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "担当者": "multitext",
+    "完了": "checkbox"
+  }
+}

@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"e862ade6fb2ca17f","x":-118,"y":546,"width":1018,"height":1034,"type":"group","label":"画面イメージ"},
-		{"id":"4c11f536ec2e4672","type":"text","text":"ここは画像ボードです。\nイメージを視覚的に共有出来ます。","x":-16,"y":47,"width":276,"height":60},
-		{"id":"4e9b3091310b9d33","x":-40,"y":620,"width":400,"height":225,"type":"file","file":"00_共同開発テンプレ/07_ライブラリ/Pasted image 20261027164810.png"},
-		{"id":"8327d229218b846b","x":-40,"y":900,"width":400,"height":225,"type":"file","file":"00_共同開発テンプレ/07_ライブラリ/Pasted image 20261027165242.png"}
-	],
-	"edges":[]
-}
