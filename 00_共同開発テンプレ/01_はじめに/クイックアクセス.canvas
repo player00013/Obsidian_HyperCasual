@@ -19,7 +19,7 @@
 		},
 		{"id":"84cbd44bcf0157ba","type":"text","text":"[雑記ボード](雑記ボード.md)","x":-80,"y":15,"width":250,"height":60},
 		{"id":"3689b55a5d06f9f2","type":"text","text":"[参考ボード](00_共同開発テンプレ/06_発想広場/参考/参考ボード.md)","x":-80,"y":110,"width":250,"height":60},
-		{"id":"dbd3f56cdafbfbf6","type":"text","text":"![](01_ホワイトボード_総合.canvas)","x":-80,"y":205,"width":250,"height":60},
+		{"id":"dbd3f56cdafbfbf6","type":"text","text":"![](00_総合ホワイトボード.canvas)","x":-80,"y":205,"width":250,"height":60},
 		{"id":"bb61e639ac079060","type":"text","text":"[質問ボード](00_共同開発テンプレ/03_質疑応答/質問ボード.md)","x":-475,"y":185,"width":250,"height":60},
 		{"id":"a5147bb7de0a14c5","type":"text","text":"[週報ボード](週報ボード.md)","x":-475,"y":555,"width":250,"height":60},
 		{"id":"bbfd15fd15a34596","type":"text","text":"[仕様書ボード](00_共同開発テンプレ/04_仕様書/仕様書ボード.md)","x":-475,"y":365,"width":250,"height":60},
