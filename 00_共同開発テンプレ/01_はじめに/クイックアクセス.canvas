@@ -23,7 +23,7 @@
 		{"id":"bb61e639ac079060","type":"text","text":"[質問ボード](00_共同開発テンプレ/03_質疑応答/質問ボード.md)","x":-475,"y":185,"width":250,"height":60},
 		{"id":"a5147bb7de0a14c5","type":"text","text":"[週報ボード](週報ボード.md)","x":-475,"y":555,"width":250,"height":60},
 		{"id":"bbfd15fd15a34596","type":"text","text":"[仕様書ボード](00_共同開発テンプレ/04_仕様書/仕様書ボード.md)","x":-475,"y":365,"width":250,"height":60},
-		{"id":"b24e5c86cb52f096","type":"text","text":"[議事録ボード](00_共同開発テンプレ/05_定例会議/議事録ボード.md)","x":-475,"y":645,"width":250,"height":60},
+		{"id":"b24e5c86cb52f096","type":"text","text":"[議事録ボード](議事録ボード.md)","x":-475,"y":645,"width":250,"height":60},
 		{"id":"93cd642a4c6acc96","type":"text","text":"[データベース](00_共同開発テンプレ/07_ライブラリ/データベース.base)","x":-80,"y":495,"width":250,"height":60},
 		{"id":"49dea7631cb86be0","type":"text","text":"![](00_共同開発テンプレ/07_ライブラリ/画像素材/画像ボード.canvas)","x":-80,"y":400,"width":250,"height":60},
 		{"id":"6533af6c1a698be9","x":177,"y":508,"width":250,"height":60,"type":"text","text":"https://docs.google.com/spreadsheets/d/1o9KzfzTXYkuQvV_LZWdQt-7H_5Kufr30UQwyl_oIfy4/edit?gid=341561380#gid=341561380"}
