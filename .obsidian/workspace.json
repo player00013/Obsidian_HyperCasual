@@ -66,41 +66,21 @@
             }
           },
           {
-            "id": "8b1a8a7dfbd03a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_共同開発テンプレ/02_タスク管理/タスクフォルダ/Obsidian_マニュアル作成.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian_マニュアル作成"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ec1af68bc13e1365",
-        "type": "tabs",
-        "children": [
-          {
             "id": "468a74f7bc3c8dd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_共同開発テンプレ/02_タスク管理/タスクフォルダ/プロジェクト資料.md",
+                "file": "00_共同開発テンプレ/02_タスク管理/タスクフォルダ/ハコノナカ_仕様書.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "プロジェクト資料"
+              "title": "ハコノナカ_仕様書"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -294,50 +274,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "6676fd160d11bc18",
-    "type": "floating",
-    "children": [
-      {
-        "id": "57f3c4c64a7cea5f",
-        "type": "window",
-        "children": [
-          {
-            "id": "2ed8efa5cf32f7de",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d1de24db53794821",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00_共同開発テンプレ/01_はじめに/マニュアル/Obsidianマニュアル.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Obsidianマニュアル"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3011,
-        "y": -1065,
-        "width": 638,
-        "height": 1040,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "468a74f7bc3c8dd1",
+  "active": "5888a9eb8fe4c702",
   "lastOpenFiles": [
+    "00_共同開発テンプレ/02_タスク管理/タスクフォルダ/レーベル名決定.md",
     "00_共同開発テンプレ/02_タスク管理/タスクボード.md",
-    "00_共同開発テンプレ/02_タスク管理/タスクフォルダ/プロジェクト資料.md",
+    "00_共同開発テンプレ/02_タスク管理/タスクフォルダ/ハコノナカ_仕様書.md",
     "00_共同開発テンプレ/02_タスク管理/タスクフォルダ/Obsidian_マニュアル作成.md",
+    "00_共同開発テンプレ/02_タスク管理/タスクフォルダ/プロジェクト資料.md",
     "00_共同開発テンプレ/01_はじめに/マニュアル/Obsidianマニュアル.md",
     "00_共同開発テンプレ/07_ライブラリ/外部資料/~$ハコノナカ.pptx",
     "00_共同開発テンプレ/07_ライブラリ/外部資料/ppt876.tmp",
@@ -384,8 +327,6 @@
     "00_共同開発テンプレ/05_議事録/議事録フォルダ/10.17.md",
     "共同開発/00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035125.png.md",
     "00_共同開発テンプレ/05_定例会議/週報フォルダ/10 17.md",
-    "00_共同開発テンプレ/05_定例会議/議事録フォルダ/10 17.md",
-    "00_共同開発テンプレ/06_発想広場/参考/参考ボード.md",
     "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/Player‗イメージボード.canvas",
     "共同開発/00_共同開発テンプレ/07_ライブラリ/画像素材/画像ボード.canvas",
     "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/楓‗イメージボード.canvas",
